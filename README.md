@@ -2,7 +2,9 @@
 
 > Este repositório é feito apenas para armazenar as atividades e projetos praticados nos cursos, dando fácil acesso para poder acessar a qualquer momento e poder revisar.
 
-Para incrementar na melhora da eficiência da entrega a Loggi Bud precisa dos dados da quantidade de entrega uma média de entregas realizadas e uma visão melhor do fluxo das entregas, para isso foi realizada algumas etapas.
+Para incrementar na melhora da eficiência da entrega a Loggi Bud precisa-se dos dados da quantidade de entrega, uma média de entregas realizadas e uma visão melhor do fluxo das entregas, para isso foi realizada algumas etapas.
+
+Você pode visualizar a análise no Kaggle: https://www.kaggle.com/code/noragan/an-lise-explorat-ria-de-dados-log-sticos
 
 Ferramentas utilizadas:
 
